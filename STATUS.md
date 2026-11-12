@@ -1,6 +1,6 @@
 # Haltbar (first wedge)
 
-**Stage:** scouted · **Platform:** web · **Score:** 5/5 · **Spend:** $0.00
+**Stage:** killed · **Platform:** web · **Score:** 5/5 · **Spend:** $0.58
 
 Astro site plus a small app. Users upload the order file from Amazon's own data export (or connect via the portability API once allowlisted). They then see each item's 2-year statutory warranty and return deadlines and recall matches from the EU Safety Gate. At 6, 12 and 24 months they get an e-mail asking 'still working? yes / problem / broken'. Product pages appear only after 10 or more verified reports. Segment: Amazon.de buyers of chargers, power banks, headphones and small kitchen appliances, which are cheap, short-lived and often recalled. This is the first wedge of a larger bet, "Haltbar": A free warranty-and-recall tracker for Amazon.de shoppers that imports their orders with their consent and later asks 'is it still working?', turning the answers into purchase-verified durability pages for products. Build only the wedge, and keep the data model and the pages ready for the loop that makes it grow: Every owner who answers 'still working?' adds a dated, purchase-verified point to the product's durability curve, which ranks for 'erfahrungen' and 'defekt' searches and brings shoppers who connect their own orders.
 
@@ -44,3 +44,4 @@ No real numbers yet. Fill in `metrics.json` (Search Console, analytics, Stripe);
 
 - 2026-11-12 13:44 · scouted · found by manual
 - 2026-11-12 13:44 · scouted · ranked first in the daily pool (aggregate 2 of 5 by 3 independent rankers, including a Big-bet bonus of 0.3); the studio builds the day's best candidate whatever its score, and the prototype is how it is judged
+- 2026-11-12 20:47 · killed · rejected by the product lead: Nobody pays: the product is free to shoppers and earns only a ~3% Amazon affiliate commission on replacements, while Amazon already emails recall alerts and free sites answer the warranty question.
