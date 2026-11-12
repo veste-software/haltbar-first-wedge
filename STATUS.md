@@ -35,6 +35,11 @@ No real numbers yet. Fill in `metrics.json` (Search Console, analytics, Stripe);
 - Amazon customer reviews (partial): Written at delivery time and gamed; the 2026 lawsuit lists paid verified-purchase reviews at $30 each; no durability data
 - Fakespot (Mozilla) (partial): Shut down on 1 July 2025 because it did not fit a model Mozilla could sustain
 
+## Links
+
+- Repo: https://github.com/veste-software/haltbar-first-wedge
+- Preview (GitHub Pages, builds from main): https://veste-software.github.io/haltbar-first-wedge/
+
 ## History
 
 - 2026-11-12 13:44 · scouted · found by manual
